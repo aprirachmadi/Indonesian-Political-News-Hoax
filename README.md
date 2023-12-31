@@ -1,5 +1,8 @@
 # Indonesian-Political-News-Hoax
 
+## Dataset
+Source: https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news/data
+
 Citation: 
 @inproceedings{wilie2020indonlu,
   title={IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding},
