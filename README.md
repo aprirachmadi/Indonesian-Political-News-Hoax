@@ -3,7 +3,7 @@
 ## Dataset
 Source: https://www.kaggle.com/datasets/linkgish/indonesian-fact-and-hoax-political-news/data
 
-Citation: 
+## Citation
 @inproceedings{wilie2020indonlu,
   title={IndoNLU: Benchmark and Resources for Evaluating Indonesian Natural Language Understanding},
   author={Bryan Wilie and Karissa Vincentio and Genta Indra Winata and Samuel Cahyawijaya and X. Li and Zhi Yuan Lim and S. Soleman and R. Mahendra and Pascale Fung and Syafri Bahar and A. Purwarianti},
